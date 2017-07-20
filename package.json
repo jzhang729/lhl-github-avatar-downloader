@@ -1,0 +1,27 @@
+{
+  "name": "github-avatar-downloader",
+  "version": "1.0.0",
+  "description": "This project is from the new Lighthouse Labs curriculum launched in 2015 to focus more on JavaScript.",
+  "main": "download_avatars.js",
+  "dependencies": {
+    "async": "^2.0.1",
+    "dotenv": "^4.0.0",
+    "request": "^2.74.0",
+    "xml2js": "^0.4.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzhang729/lhl-github-avatar-downloader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jzhang729/lhl-github-avatar-downloader/issues"
+  },
+  "homepage": "https://github.com/jzhang729/lhl-github-avatar-downloader#readme"
+}

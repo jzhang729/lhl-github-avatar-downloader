@@ -1,0 +1,5 @@
+.env
+./avatars
+node_modules
+example1.js
+example2.js
