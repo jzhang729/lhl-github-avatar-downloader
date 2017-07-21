@@ -8,6 +8,12 @@ Given a GitHub repository name and owner, download all the contributors' profile
 
 ## Expected Usage
 
+Two versions of the program exist. The first does not use the [async library](https://caolan.github.io/async) and the second one does.
+
 This program should be executed from the command line, in the following manner:
 
-`node download_avatars.js jquery jquery`
+`node download_avatars_1.js jquery jquery` (no async library)
+
+or
+
+`node download_avatars_2.js jquery jquery` (with async library)
